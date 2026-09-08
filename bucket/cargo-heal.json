@@ -1,9 +1,9 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gist-rs/cargo-heal/releases/download/v0.1.1/cargo-heal-v0.1.1-x86_64-pc-windows-msvc.zip",
-            "hash": "fa9ff7c620830edf6f741faeb6a3f9887b08af1bbacce0f7b4134aa043fd452d"
+            "url": "https://github.com/gist-rs/cargo-heal/releases/download/v0.1.2/cargo-heal-v0.1.2-x86_64-pc-windows-gnu.zip",
+            "hash": "cae9dffb8be44deacacf4b94bffd0ed63baf4999344840e241b413c9f72aadff"
         }
     },
     "bin": ["cargo-heal.exe"],
