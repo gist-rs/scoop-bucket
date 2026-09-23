@@ -1,13 +1,13 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gist-rs/reflex/releases/download/v0.2.1/riir-reflex-v0.2.1-x86_64-pc-windows-gnu.zip",
-            "hash": "0e84dc493795fc464da8c6bbb0a7fa6654982328e00a03632eac72aa782bb85d"
+            "url": "https://github.com/gist-rs/reflex/releases/download/v0.2.2/reflex-v0.2.2-x86_64-pc-windows-gnu.zip",
+            "hash": "ee91c44a39f7cfb2081f3a029e506dc0f729ebc9c25802a9c75aa75350dc93fc"
         }
     },
     "bin": [
-        "riir-reflex.exe"
+        "reflex.exe"
     ],
     "checkver": "github"
 }
