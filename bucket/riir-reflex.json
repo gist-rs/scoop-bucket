@@ -1,9 +1,9 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gist-rs/reflex/releases/download/v0.2.2/reflex-v0.2.2-x86_64-pc-windows-gnu.zip",
-            "hash": "ee91c44a39f7cfb2081f3a029e506dc0f729ebc9c25802a9c75aa75350dc93fc"
+            "url": "https://github.com/gist-rs/reflex/releases/download/v0.2.3/reflex-v0.2.3-x86_64-pc-windows-gnu.zip",
+            "hash": "931be16d920725300f8adcbc8860a5171c9af00d9cb321c9d195619edb03d820"
         }
     },
     "bin": [
