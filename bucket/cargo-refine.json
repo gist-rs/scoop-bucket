@@ -3,7 +3,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/gist-rs/cargo-refine/releases/download/v0.3.5/cargo-refine-v0.3.5-x86_64-pc-windows-gnu.zip",
-            "hash": "91322fc56f0ea06cf922f5655160a5b7aed26df9ae858d0ddc66aa8c32553912"
+            "hash": "e10ab28f985b44cf0edba88614a71c349c16b1ac8df8ea9300af1c14b51afc7a"
         }
     },
     "bin": [
