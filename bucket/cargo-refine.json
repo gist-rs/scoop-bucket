@@ -1,9 +1,9 @@
 {
-    "version": "0.4.4",
+    "version": "0.4.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gist-rs/cargo-refine/releases/download/v0.4.4/cargo-refine-v0.4.4-x86_64-pc-windows-gnu.zip",
-            "hash": "c62756b286c0579c00523a3c9e3b0b49e574bb5d1a77cdb90136cbfa2f690d22"
+            "url": "https://github.com/gist-rs/cargo-refine/releases/download/v0.4.6/cargo-refine-v0.4.6-x86_64-pc-windows-gnu.zip",
+            "hash": "cfb9bc6ecde48a371dba44317a8ac7dc076fe5148629982d71afbd41aa7dc55b"
         }
     },
     "bin": [
